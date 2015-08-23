@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>{% if page.title %} {{ page.title }} | {% endif %} Binarynova's Event Horizon</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<link href="/img/favicon.ico" rel="icon" type="image/x-icon" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
+<body>
+
+<!-- Header -->
+<header>
+	<a href="/index.html">Binarynova's Event Horizon</a>
+</header>
+
+<!-- Left Column -->
+<div id="main">
+
+	{{ content }}
+	
+</div>
+
+<!-- Right Column -->
+<nav>
+	{% include menu.html %}
+</nav>
+
+
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<article>	
+	<span class="date">{{ page.date| date: "%B %d, %Y" }}.</span>
+	<a href="{{ post.url }}"><h2>{{ page.title }}</h2></a>
+	<hr>
+	{{ content }}
+</article>

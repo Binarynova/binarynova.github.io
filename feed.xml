@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title type="text">Binarynova.com</title>
+		<link>http://www.binarynova.com</link>
+		<description>Binarynova's Personal Blog</description>
+		<atom:link href="http://www.binarynova.com/feed.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.posts limit:10 %}
+			<item>
+				<title>{{ post.title }}</title>
+				<link>http://www.binarynova.com{{ site.url }}{{ post.url }}</link>
+				<description>{{ post.content | xml_escape }}</description>
+				<image>
+    				<url>http://www.binarynova.com/img/{{ post.format }}.png</url>
+    				<title>{{ post.format }}</title>
+    				<link>http://www.binarynova.com</link>
+  				</image>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+				<guid isPermaLink="true">http://www.binarynova.com{{ site.url }}{{ post.url }}</guid>
+			</item>
+		{% endfor %}
+	</channel>
+</rss>

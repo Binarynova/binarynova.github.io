@@ -1,0 +1,137 @@
+a:link, a:visited , a:active{
+	color: #AABCCD; 
+	text-decoration: none;
+}
+
+html {
+	background-color: #000214;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-position: center;
+	overflow-y: scroll; 
+	margin: 0;
+	padding: 0;
+	color: #000000; 
+}
+
+body {
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 100%;
+	width: 925px;
+	margin: 0 auto;
+	padding: 0;
+	color: #000000;
+}
+
+header {
+	font-size: 250%;
+	font-weight: bold;
+	font-style: italic;
+	padding: 10px;
+	margin-top: 5px;
+}
+
+.archives {
+color: bbbbbb;
+	padding: 10px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+#main {
+	float: left;
+	width: 670px;
+	padding-right: 5px;
+	margin-top: 10px;
+}
+
+article {
+	color: #bbbbbb;
+	padding: 10px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+
+.pagination {
+text-align: center;
+	color: #bbbbbb;
+	margin-bottom: 10px;
+}
+
+nav {
+	float: right;
+	width: 245px;
+	padding-left: 5px;
+	margin-top: 10px;
+}
+
+nav p {
+	margin-top: 0px;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	background: #ddd;
+	padding: 5px 10px;
+	margin: 0 0 0 0;
+}
+	
+h2 {
+	margin: 0 0 0 0;
+}
+
+h3 {
+	margin: 0 0 0 0;
+}
+
+h4 {
+	margin: 0 0 0 0;
+	text-decoration: underline;
+}
+
+hr {
+	margin-top: 0px;
+	background-color: #bbbbbb;
+	height: 1px;
+	border: none;
+}
+
+hr.menu {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #bbbbbb;
+	height: 1px;
+	border: none;
+}
+
+.date {
+	font-style: italic;
+	font-size: .8em;
+}
+
+.format {
+	float: left;
+	padding-right: 10px;
+	height: 45px;
+	width: 45px;
+}
+
+blockquote {
+	color: bbbbbb;
+	font-style: italic;
+	font-size: 90%;
+	margin: 0;
+	margin-left: 20px;
+	padding: 10px;
+}

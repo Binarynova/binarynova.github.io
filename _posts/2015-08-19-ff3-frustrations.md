@@ -1,0 +1,19 @@
+---
+layout: blog_entry
+title: FF3 Frustrations
+---
+Updates! First of all, I normally talk about speedruns on Twitter but lately I'm sick of trying to converse in 140 character snippets. It's impossible to have a conversation on Twitter for that reason. So here we go: I'll post about it here, on my website.
+
+Final Fantasy III. I've been trying for almost two years to find a route and category for this game that is consistent and fun. What began with a single simple category quickly became my biggest speedrunning passion. There are categories for just about everyone. Like runs that are under 10 minutes? FF3 has that. Like runs between 1hr and 2hrs? Has those too. Want glitchless full-game runs that are 3hrs+? You can do that as well.
+
+FF3 speedrunning became a problem when I got serious enough to move away from emulator runs and into Famicom runs. Playing the game on real hardware introduces a number of complications that you don't need to consider at all when playing on an emulator. For instance, glitched runs rely on a predictably manipulable random number generator (RNG). When playing on real hardware though, you have to deal with the fact that the system's RAM may not be cleared immediately when the system is power cycled, or even within 5 minutes of a power cycle... or even within THIRTY minutes. With many categories, if you can't reset the RNG within a few seconds, you can't run the game.
+
+My U.S. NES console had a serious problem resetting the RAM. I fought with it for a month or so, but eventually saved up some money and replaced it. I had a Japanese A/V Famicom shipped to the States direct from Japan. Initial tests were positive. But when practice runs started, the RNG got fickle. I was right back to unpredictable starting RNG.
+
+I was pissed. I had spent considerable money on the new hardware and spent considerable time to re-route my speedrun only to have the whole thing blow up in my face when the chips were down. I didn't even touch the game for a month. When I finally decided to re-visit it I had only one idea: Glitchless. Without glitches I wouldn't be restricted to predicting the unpredictable. The randomness would be a part of the run, not something to be feared. I went to work.
+
+Finding information for a glitchless run was tough. I only found a few videos; none of them were the supposed fastest time; all of them were in Japanese. I started by trying to learn the game in Japanese to play as close to the original as possible. But the route I found (and spent weeks making notes for) ended up relying on THE SAME RNG MANIPULATION that had driven me crazy before. The whole guide and route were scrapped. Again I didn't even touch the game for a month.
+
+But I eventually came back. I love the game, and I really WANT to run it. I wish I didn't! So the search continued. I finally found another glitchless run that didn't seem to rely on any RNG tricks. It was slower, sure, but I didn't care. I just wanted a run I could do for fun. I decided this time to take notes from the Japanese run and convert them to the English translation (a big extra step, but one I considered integral to ensuring I enjoyed the run). For the past few weeks I've been working on and off to finish it and in the past few days I hit a big stride and made it nearly to the end.
+
+Only to be crushed again. I haven't timed a run, but I estimate it would be about 5 hours. But about 20 minutes from the end is a boss: Two Head D. And he's rough. So rough and tough and ridiculous, that I'm done. Every time I try to find a way to run this game, something happens. Some part of the game gets in the way. Well fine. It doesn't want to be run, so it won't.

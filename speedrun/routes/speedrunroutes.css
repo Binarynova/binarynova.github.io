@@ -1,0 +1,32 @@
+body {
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+  font-size: 11pt;
+  background-color: #001239;
+  color: #dddddd;
+}
+
+li {
+  color: #4F81BD;
+  font-weight: bold;
+}
+
+h4 {
+  text-decoration: underline;
+}
+
+div {
+  -webkit-column-count:3;
+  -webkit-column-rule-style: solid;
+}
+
+.boss {
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+  text-indent: 40px;
+}
+
+.img4x3 {
+  height: 300px;
+  width: 400px;
+}

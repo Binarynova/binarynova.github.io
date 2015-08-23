@@ -1,0 +1,15 @@
+---
+layout: default
+title: Archives
+---
+
+<div class="archives"><h2>Archives</h2></div>
+
+{% for post in site.posts offset:10 %}
+ 	<article>
+		<span class="date">{{ post.date| date: "%B %d, %Y" }}.</span>
+		<a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
+		<hr>
+		{{ post.content }}
+	</article>
+{% endfor %}
