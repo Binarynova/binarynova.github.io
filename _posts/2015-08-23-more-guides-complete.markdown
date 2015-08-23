@@ -1,6 +1,7 @@
 ---
 layout: blog_entry
 title: More Guides Complete
+2015-08-23 00:34
 ---
 Secret of Mana (Any% Glitched) guide complete and added to the speedrun guide page!
 
