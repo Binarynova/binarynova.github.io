@@ -1,7 +1,6 @@
 ---
 layout: blog_entry
 title: Here We Go Again
-format: format-standard
 ---
 > I hear that voice in my head say, "Here we go again."  
 > ~ Everclear
