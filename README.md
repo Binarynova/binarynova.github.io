@@ -1,4 +1,4 @@
 # binarynova.github.io
-My Jekyll-Powered Persona Website
+My Jekyll-Powered Personal Website
 
 This is the result of playing around with Jekyll and GitHub Pages.
