@@ -1,4 +1,4 @@
 gems: [jekyll-paginate]
 permalink: /blog/:year/:month/:day/:title/
-paginate: 10
+paginate: 8
 paginate_path: "blog/page:num"
